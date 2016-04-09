@@ -3,13 +3,15 @@ from random import randint
 def getRandom(l):
     return l[randint(0,len(l)-1)]
 
-@module.rule(r".*[Cc]hristine.*")
+
+# TODO: if a user says dummy and list in one line they must be kicked
+
+@module.rule(r".*([Ll]inked\s*[Ll]ist|([Cc]hristine)).*")
 def christine(bot, trigger):
     bot.reply(getRandom([
             'Come see me during office hours.',
             'Is that a linked list?',
             'NO dummy nodes!',
-            'I love csh.',
             'Go link yourself to your dummy node.',
             'You should ask SCS technical support.',
             'Java is for people who can\'t c.'
