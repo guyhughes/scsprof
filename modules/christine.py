@@ -30,5 +30,3 @@ def csh(bot, trigger):
         'csh is the best shell.',
         'Have you tried csh?',
     ]))
-
-@
