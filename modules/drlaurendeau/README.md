@@ -1,8 +1,6 @@
-#Sopel Modules
+# drlaurendeau
 
-##Joke
+says things sometimes
 
-```
-.joke
-.joke <catagorie>
-```
+this is a parody. this is satire.
+
