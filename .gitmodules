@@ -1,0 +1,4 @@
+[submodule "didactic-parakeet"]
+	path = modules/didactic-parakeet
+	url = gh:guyhughes/didactic-parakeet
+	branch = guy

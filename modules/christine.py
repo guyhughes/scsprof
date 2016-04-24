@@ -33,5 +33,5 @@ def csh(bot, trigger):
         'Have you tried csh?',
         'I love csh',
         'You know, I learned csh back in 1901 because csh is the best shell.',
-        'I did my PhD in prolog. csh is my favourite language though.t'
+        'I did my PhD in prolog. csh is my favourite language though.'
     ]))

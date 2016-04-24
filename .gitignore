@@ -1,3 +1,5 @@
-logs
+logs/
 *.db
 *.pid
+*.dat
+malwaredomains.txt
