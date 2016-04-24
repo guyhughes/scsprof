@@ -1,4 +1,4 @@
 [submodule "didactic-parakeet"]
 	path = modules/didactic-parakeet
-	url = git@github.com:guyhughes/didactic-parakeet
+	url = git@github.com:ChristopherBlackman/didactic-parakeet
 	branch = guy
