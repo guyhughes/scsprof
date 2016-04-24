@@ -12,7 +12,7 @@ make issues for feature requestsssssssss so we have ideas ^_^
 what is life
 --------------------------------------------------
 
-We are running on python 2.7.
+we are running on python 2.7 because the `.reload` issue can cause an unrecoverable error under python 3.4/3.5 with python modules.
 
 
 .reload
